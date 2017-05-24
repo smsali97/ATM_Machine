@@ -1,0 +1,9 @@
+***********************************
+Chicken Biryani's Transaction history as follows
+***********************************
+A transaction of Utility Bill  with an amount of 7294 was done on the following date: 
+Fri Apr 21 13:26:05 PKT 2017
+
+A transaction of Transfer Fund  with an amount of 500 was done on the following date: 
+Fri Apr 21 13:27:29 PKT 2017
+
